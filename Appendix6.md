@@ -1,6 +1,6 @@
 Appendix 6: NIST SP 800-53 Rev. 5 Control Family Catalogue
 
-This catalogue accompanies `appendix_eits_nist_crosswalk.md` and expands the NIST SP 800-53 family abbreviations used in the crosswalk. It lists all 20 security and privacy control families defined in NIST SP 800-53 Revision 5.
+This catalogue lists all 20 security and privacy control families defined in NIST SP 800-53 Revision 5.
 
 | Family code | Control family |
 |---|---|

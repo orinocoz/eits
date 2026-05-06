@@ -1,6 +1,6 @@
 Appendix 7: BSI IT-Grundschutz Module Group Catalogue
 
-This catalogue accompanies Table 5 in the thesis and expands the BSI IT-Grundschutz module group abbreviations used in the E-ITS structural correspondence analysis. It lists the top-level module groups defined in BSI IT-Grundschutz-Kompendium (Edition 2023), their E-ITS counterparts, and the log-verifiability profile from the demonstration run.
+This catalogue lists the top-level module groups defined in BSI IT-Grundschutz-Kompendium (Edition 2023), their E-ITS counterparts, and the log-verifiability profile from the demonstration run.
 
 | BSI module group | BSI description | E-ITS counterpart | E-ITS measures (2024) | Direct log-verifiable | Indirect log-verifiable | Non-log-verifiable | Direct % |
 |---|---|---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 Appendix 8: E-ITS Module Group to NIST CSF 2.0 and SP 800-53 Mapping
 
-This appendix accompanies Table 6 in the thesis and provides the complete module-group-level cross-framework mapping between E-ITS, NIST CSF 2.0 functions, and NIST SP 800-53 Rev. 5 control families. The mapping is based on dominant control intent at the module-group level, not on individual measure-level equivalence. For measure-level NIST crosswalk, see Appendix B.
+This appendix provides the complete module-group-level cross-framework mapping between E-ITS, NIST CSF 2.0 functions, and NIST SP 800-53 Rev. 5 control families. The mapping is based on dominant control intent at the module-group level, not on individual measure-level equivalence. For measure-level NIST crosswalk, see Appendix 3.
 
 | E-ITS module group | E-ITS description | Primary CSF 2.0 function(s) | Secondary CSF 2.0 function(s) | Primary SP 800-53 families | Mapping rationale | E-ITS measures | Direct log-verifiable % |
 |---|---|---|---|---|---|---|---|
