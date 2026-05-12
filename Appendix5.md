@@ -1,6 +1,8 @@
-Appendix 5: NIST CSF 2.0 Category Catalogue
+# Appendix 5: NIST CSF 2.0 Category Catalogue
 
-This catalogue lists the CSF 2.0 Functions and Categories defined by NIST in CSWP 29.
+This catalogue lists the CSF 2.0 Functions and Categories used in Appendix 3.
+
+Source: NIST, *The NIST Cybersecurity Framework (CSF) 2.0*, CSWP 29, February 26, 2024, https://doi.org/10.6028/NIST.CSWP.29. Accessed: May 11, 2026.
 
 | Function code | Function | Purpose |
 |---|---|---|
@@ -35,7 +37,3 @@ This catalogue lists the CSF 2.0 Functions and Categories defined by NIST in CSW
 | Respond | RS.MI | Incident Mitigation |
 | Recover | RC.RP | Incident Recovery Plan Execution |
 | Recover | RC.CO | Incident Recovery Communication |
-
-Source:
-
-- [NIST CSWP 29, *The NIST Cybersecurity Framework (CSF) 2.0* (February 26, 2024)](https://doi.org/10.6028/NIST.CSWP.29)

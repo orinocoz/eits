@@ -1,6 +1,8 @@
-Appendix 6: NIST SP 800-53 Rev. 5 Control Family Catalogue
+# Appendix 6: NIST SP 800-53 Rev. 5 Control Family Catalogue
 
-This catalogue lists all 20 security and privacy control families defined in NIST SP 800-53 Revision 5.
+This catalogue lists the 20 security and privacy control families used in Appendix 3. The thesis uses SP 800-53 at the control-family level only; the mappings do not imply measure-to-control equivalence.
+
+Source: NIST, *Security and Privacy Controls for Information Systems and Organizations*, NIST SP 800-53 Rev. 5, https://doi.org/10.6028/NIST.SP.800-53r5. Accessed: May 11, 2026.
 
 | Family code | Control family |
 |---|---|
@@ -24,7 +26,3 @@ This catalogue lists all 20 security and privacy control families defined in NIS
 | SC | System and Communications Protection |
 | SI | System and Information Integrity |
 | SR | Supply Chain Risk Management |
-
-Source:
-
-- [NIST SP 800-53 Rev. 5, *Security and Privacy Controls for Information Systems and Organizations*](https://doi.org/10.6028/NIST.SP.800-53r5)
